@@ -4,6 +4,6 @@ CRISPR/CAS gRNA design tool for Walnut
 SoggyCas is a bioinformatics tool to aid selection of guide RNAs targeting specific genomic sites and to identify potential off-target sites in Walnut.
 
 
-# Download gene model and fasta file and database generation
+Download gene model and fasta file and database generation
 
 Test
