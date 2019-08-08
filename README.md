@@ -41,4 +41,4 @@ perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 ```
 
 ## SoggyCas Workflow
-![Bioinformatics Workflow](![Image description](link-to-image))
+![Bioinformatics Workflow](https://github.com/dandekarlab/SoggyCas/blob/master/Workflow.tif)
