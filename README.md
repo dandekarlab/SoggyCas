@@ -12,6 +12,7 @@ Perl Modules
 [pip](https://pip.pypa.io/en/stable/)
 ```bash
 [Bio::SeqIO](https://metacpan.org/pod/Bio::SeqIO)
+[pip](https://pip.pypa.io/en/stable/)
 ```
 ## Download gene model & fasta file
 
