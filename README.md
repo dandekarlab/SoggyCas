@@ -33,6 +33,9 @@ Organism : [Juglans regia](https://www.ncbi.nlm.nih.gov/genome/?term=juglans+reg
 
 
 ## Database generation
+
+Parse GBFF and gene2refseq files to extract gene features
+
 ```bash
-Test
+perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 ```
