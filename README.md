@@ -24,7 +24,7 @@ Bio::Restriction::EnzymeCollection
 Organism : [Juglans regia](https://www.ncbi.nlm.nih.gov/genome/?term=juglans+regia)
 GBFF : ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gbff.gz
 
-Fasta : (ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.fna.gz
+Fasta : ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.fna.gz
 
 
 ## Database generation
