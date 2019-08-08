@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 Perl Modules
+
 [Bio::SeqIO](https://metacpan.org/pod/Bio::SeqIO)
 
 ## Download gene model & fasta file
