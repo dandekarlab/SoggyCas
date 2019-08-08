@@ -47,7 +47,15 @@ perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 Parse GBFF and gene2refseq files to extract gene features
 
 ```bash
-perl SETP2_GenerateTables
+perl SETP2_GenerateTables.pl
+```
+
+### Step3 : Extract gRNAs
+
+Parse GBFF and gene2refseq files to extract gene features
+
+```bash
+perl STEP3_FindgRNA.pl -i geneid
 ```
 
 
