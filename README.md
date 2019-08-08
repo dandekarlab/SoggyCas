@@ -11,9 +11,13 @@ These instructions will get you a copy of the project up and running on your loc
 Perl Modules
 
 [BioPerl](https://metacpan.org/release/BioPerl)
+
 Bio::SeqFeature::Tools::Unflattener
+
 Bio::SeqIO
+
 Bio::Restriction::EnzymeCollection
+
 
 ## Download gene model & fasta file
 
