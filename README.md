@@ -10,7 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 Perl Modules
 
-[Bio::SeqIO](https://metacpan.org/pod/Bio::SeqIO)
+[BioPerl](https://metacpan.org/release/BioPerl)
+Bio::SeqFeature::Tools::Unflattener
+Bio::SeqIO
+Bio::Restriction::EnzymeCollection
 
 ## Download gene model & fasta file
 
