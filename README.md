@@ -21,4 +21,9 @@ Bio::Restriction::EnzymeCollection
 
 ## Download gene model & fasta file
 
+[GBFF file](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gbff.gz)
+
+[Fasta file](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.fna.gz)
+
+
 ## Database generation
