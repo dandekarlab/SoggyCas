@@ -32,7 +32,9 @@ Organism : [Juglans regia](https://www.ncbi.nlm.nih.gov/genome/?term=juglans+reg
 3) gene2refseq : ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2refseq.gz
 
 
-## Extract gene features
+## Usage
+
+### Step1 : Extract gene features
 
 Parse GBFF and gene2refseq files to extract gene features
 
