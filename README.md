@@ -42,15 +42,15 @@ Parse GBFF and gene2refseq files to extract gene features
 perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 ```
 
-### Step2 : Extract gene features
+### Step2 : Generate tables for annotation
 
-Parse GBFF and gene2refseq files to extract gene features
+Extract exon,intron,UTR information
 
 ```bash
 perl SETP2_GenerateTables.pl
 ```
 
-### Step3 : Extract gRNAs
+### Step3 : Extract gRNAs for a given gene
 
 Parse GBFF and gene2refseq files to extract gene features
 
