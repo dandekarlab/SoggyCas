@@ -25,5 +25,6 @@ Bio::Restriction::EnzymeCollection
 
 [Fasta file](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.fna.gz)
 
+[BioPerl](https://metacpan.org/release/BioPerl)
 
 ## Database generation
