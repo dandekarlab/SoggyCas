@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 Perl Modules
+[pip](https://pip.pypa.io/en/stable/)
 ```bash
 [Bio::SeqIO](https://metacpan.org/pod/Bio::SeqIO)
 ```
