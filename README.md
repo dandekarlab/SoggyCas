@@ -42,5 +42,18 @@ Parse GBFF and gene2refseq files to extract gene features
 perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 ```
 
+### Step2 : Extract gene features
+
+Parse GBFF and gene2refseq files to extract gene features
+
+```bash
+perl SETP2_GenerateTables
+```
+
+
+
 ## SoggyCas Workflow
+
 ![Bioinformatics Workflow](https://github.com/dandekarlab/SoggyCas/blob/master/Workflow.png)
+
+
