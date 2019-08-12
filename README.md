@@ -32,6 +32,12 @@ Organism : [Juglans regia](https://www.ncbi.nlm.nih.gov/genome/?term=juglans+reg
 3) gene2refseq : ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2refseq.gz
 
 
+4) GFF File : ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gff.gz
+
+
+5) Protein Table : https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=GetFeatures4Grid&amp;download=on&amp;type=Proteins&amp;genome_id=17683&genome_assembly_id=255039&mode=2&is_locus=1&is_locus_tag=0&optcols=1,0,,0,0
+
+
 ## Usage
 
 ### Step1 : Extract gene features
