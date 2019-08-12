@@ -37,6 +37,8 @@ Organism : [Juglans regia](https://www.ncbi.nlm.nih.gov/genome/?term=juglans+reg
 
 5) Protein Table : https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=GetFeatures4Grid&amp;download=on&amp;type=Proteins&amp;genome_id=17683&genome_assembly_id=255039&mode=2&is_locus=1&is_locus_tag=0&optcols=1,0,,0,0
 
+Extract these files in the working directory.
+
 
 ## Usage
 
