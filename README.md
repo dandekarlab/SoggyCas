@@ -69,7 +69,7 @@ The result file, "gene table" can also download from the link : https://drive.go
 Parse GBFF and gene2refseq files to extract gene features
 
 ```bash
-perl STEP3_FindgRNA.pl -i geneid
+perl STEP3_FindgRNA.pl -g geneid
 ```
 
 
