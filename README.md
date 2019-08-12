@@ -50,6 +50,8 @@ Parse GBFF and gene2refseq files to extract gene features
 perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 ```
 
+The result file can also download from the link : https://drive.google.com/open?id=1YKD37g7Sv7JKYSeCVtwBg0wA2whIx-y1
+
 ### Step2 : Generate tables for annotation
 
 Extract exon,intron,UTR information
