@@ -52,13 +52,17 @@ perl STEP1_GBFFParser.pl -f GBFFfile -r gene2refseqfile
 
 The result file can also download from the link : https://drive.google.com/open?id=1YKD37g7Sv7JKYSeCVtwBg0wA2whIx-y1
 
+
 ### Step2 : Generate tables for annotation
 
 Extract exon,intron,UTR information
 
 ```bash
-perl SETP2_GenerateTables.pl
+perl SETP2_GenerateTables.pl -gff gff_file -fa fasta_file -p protein_table
 ```
+
+The result file, "gene table" can also download from the link : https://drive.google.com/open?id=1C_CXh7uvDSGjLg8LiTUxxGQQjj0g9pt2
+
 
 ### Step3 : Extract gRNAs for a given gene
 
