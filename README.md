@@ -23,16 +23,16 @@ Bio::Restriction::EnzymeCollection
 
 Organism : [Juglans regia](https://www.ncbi.nlm.nih.gov/genome/?term=juglans+regia)
 
-1) GBFF : ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gbff.gz
+1) GBFF : https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gbff.gz
 
 
-2) Fasta : ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.fna.gz
+2) Fasta : https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.fna.gz
 
 
-3) gene2refseq : ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2refseq.gz
+3) gene2refseq : https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2refseq.gz
 
 
-4) GFF File : ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gff.gz
+4) GFF File : https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/411/555/GCF_001411555.1_wgs.5d/GCF_001411555.1_wgs.5d_genomic.gff.gz
 
 
 5) Protein Table : https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=GetFeatures4Grid&amp;download=on&amp;type=Proteins&amp;genome_id=17683&genome_assembly_id=255039&mode=2&is_locus=1&is_locus_tag=0&optcols=1,0,,0,0
